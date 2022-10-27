@@ -1,2 +1,2 @@
-new File
-#Good Day
+# Good Day
+- **day**
